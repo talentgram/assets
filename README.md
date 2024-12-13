@@ -1,4 +1,4 @@
-![Talentgram Banner](https://raw.githubusercontent.com/talentgram/talentgram-assets/refs/heads/main/talentgram-text-white_200x47.png)
+![Talentgram Logo](https://raw.githubusercontent.com/talentgram/talentgram/refs/heads/main/talentgram-white-text.png) <br />
 
 ⚡ Supercharging the gig economy on Telegram
 
@@ -24,9 +24,11 @@ So, It’s time to supercharge the gig economy and empower business getting done
 
 # Assets
 
-![Talentgram Logo](https://raw.githubusercontent.com/talentgram/talentgram-assets/refs/heads/main/talentgram-text-white.svg)
+### White text 
+![Talentgram Logo](https://raw.githubusercontent.com/talentgram/talentgram/refs/heads/main/talentgram-white-text.png) <br />
 
-![Talentgram Logo](https://raw.githubusercontent.com/talentgram/talentgram-assets/refs/heads/main/talentgram-text-black.svg)
+### Black text 
+![Talentgram Logo](https://raw.githubusercontent.com/talentgram/talentgram-assets/refs/heads/main/talentgram-black-text.png)
 
 
 ![Talentgram Logo](https://raw.githubusercontent.com/talentgram/talentgram-assets/refs/heads/main/Talentgram-profile-picture.jpg)
